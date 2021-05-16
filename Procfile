@@ -1,0 +1,1 @@
+web: java -jar build/libs/CoWin-JOB-1.0-SNAPSHOT-all.jar
